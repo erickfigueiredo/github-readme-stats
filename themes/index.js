@@ -262,6 +262,24 @@ const themes = {
     icon_color: "a64833",
     text_color: "d9c8a9",
     bg_color: "402b23"
+  },
+  knight: {
+    title_color: "f68e5f",
+    icon_color: "f5dd90",
+    text_color: "324376",
+    bg_color: "586ba4"
+  },
+  fire: {
+    title_color: "ff7900",
+    icon_color: "ff5400",
+    text_color: "ffb600",
+    bg_color: "e9ebf8"
+  },
+  unicorn: {
+    title_color: "bd83ff",
+    icon_color: "ff93ff",
+    text_color: "8cb8ff",
+    bg_color: "fffffc"
   }
 };
 
